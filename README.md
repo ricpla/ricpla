@@ -5,21 +5,11 @@
 > I like to **create unique and attractive products;** that the client can enjoy observing something pleasant allowing the effective communication of the message connected with the technological tools of the moment.
 
 # Skills
-- FrontEnd
-- BackEnd
-- DevOps
-- Data
+- FrontEnd | BackEnd | DevOps | Data
 
 # Stacks
-- NodeJS
-- JavaScript
-- TypeScript
-- PHP
-- HTML
-- CSS
+- NodeJS | JavaScript | TypeScript | PHP | HTML | CSS
 
 # Frameworks
 
-- React
-- NextJS
-- TaildWindCSS
+- React | NextJS | TaildWindCSS
