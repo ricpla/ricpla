@@ -1,4 +1,25 @@
-- 👋 Hi, I’m Ricardo Pla @ricpla. Im 23 years old.
-- 👀 I’m interested in Javascript, Database, and Frontend design.
-- 💞️ I’m looking to collaborate on Frontend projects.
-- 📫 You can reach me for my email (ricpla17@gmail.com), linkedin (linkedin.com/in/ricardo-pla/) and twitter (ercuchillero).
+# 🧍 Ricardo Pla (24) - Venezuela
+- 👨‍💻 Web developer
+- 🍃 Passionate, calm and minimalist.
+
+> I like to **create unique and attractive products;** that the client can enjoy observing something pleasant allowing the effective communication of the message connected with the technological tools of the moment.
+
+# Skills
+- FrontEnd
+- BackEnd
+- DevOps
+- Data
+
+# Stacks
+- NodeJS
+- JavaScript
+- TypeScript
+- PHP
+- HTML
+- CSS
+
+# Frameworks
+
+- React
+- NextJS
+- TaildWindCSS
