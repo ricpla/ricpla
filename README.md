@@ -4,12 +4,12 @@
 
 > I like to **create unique and attractive products;** that the client can enjoy observing something pleasant allowing the effective communication of the message connected with the technological tools of the moment.
 
-# Skills
+# ✍🏻 Skills
 - FrontEnd | BackEnd | DevOps | Data
 
-# Stacks
+# ⚙ Stacks
 - NodeJS | JavaScript | TypeScript | PHP | HTML | CSS
 
-# Frameworks
+# 💡 Frameworks
 
 - React | NextJS | TaildWindCSS
