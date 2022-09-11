@@ -8,7 +8,7 @@
 - FrontEnd | BackEnd | DevOps | Data
 
 # ⚙ Stacks
-- NodeJS  | JavaScript | TypeScript | PHP | Python | Ruby | HTML | CSS
+- NodeJS  | JavaScript | TypeScript | PHP | HTML | CSS
 
 # 💡 Frameworks
 
