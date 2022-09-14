@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-chakra-72e3ff?style=for-the-badge&logo=chakraui&logoColor=white&color=2dbfb4">
 </div>
 
-# 📱 Social Network
+# 📱 Get in touch
 
 - <div>
   <a href="https://www.linkedin.com/in/ricardo-pla/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-linkedin-72e3ff?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2"><a />
