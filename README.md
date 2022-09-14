@@ -1,4 +1,4 @@
-# 🧍 Ricardo Pla (24) - Venezuela
+# 🧍 Ricardo Pla (24) - Venezuela 🇻🇪
 - 👨‍💻 Developer
 - 🍃 Passionate, calm and minimalist.
 
