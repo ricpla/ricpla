@@ -7,7 +7,7 @@
 # ✍🏻 Skills
 - FrontEnd | BackEnd | DevOps | Data | UX/UI Design
 
-# ⚙ Stacks
+# ⚙ Languages
 - <div>
   <img src="https://img.shields.io/badge/-node.js-46483df?style=for-the-badge&logo=Node.js&logoColor=46483d&color=90c53f">
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white&color=ffd246&labelColor=3773a4">
