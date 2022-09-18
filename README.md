@@ -30,11 +30,7 @@
 # ✍🏻 Design
 
 - <div>
- <img src="https://img.shields.io/badge/-figma-72e3ff?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E">
- <img src="https://img.shields.io/badge/-Illustrator-72e3ff?style=for-the-badge&logo=AdobeIllustrator&logoColor=ff9a00&color=330000">
- <img src="https://img.shields.io/badge/-photoshop-72e3ff?style=for-the-badge&logo=Adobephotoshop&logoColor=01aaff&color=001834">
- <img src="https://img.shields.io/badge/-adobe xd-72e3ff?style=for-the-badge&logo=Adobexd&logoColor=ff61f6&color=470137">
- <img src="https://img.shields.io/badge/-dreamweaver-72e3ff?style=for-the-badge&logo=Adobedreamweaver&logoColor=ff61f6&color=470137">
+ <img src="https://img.shields.io/badge/-figma-72e3ff?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E"> <img src="https://img.shields.io/badge/-Illustrator-72e3ff?style=for-the-badge&logo=AdobeIllustrator&logoColor=ff9a00&color=330000"> <img src="https://img.shields.io/badge/-photoshop-72e3ff?style=for-the-badge&logo=Adobephotoshop&logoColor=01aaff&color=001834"> <img src="https://img.shields.io/badge/-adobe xd-72e3ff?style=for-the-badge&logo=Adobexd&logoColor=ff61f6&color=470137"> <img src="https://img.shields.io/badge/-dreamweaver-72e3ff?style=for-the-badge&logo=Adobedreamweaver&logoColor=ff61f6&color=470137">
 </div>
 
 # 📱 Get in touch
