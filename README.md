@@ -5,7 +5,7 @@
 > I like to **create unique and attractive products;** that the client can enjoy observing something pleasant allowing the effective communication of the message connected with the technological tools of the moment.
 
 # ✍🏻 Skills
-- FrontEnd | BackEnd | DevOps | Data
+- FrontEnd | BackEnd | DevOps | Data | UX/UI Design
 
 # ⚙ Stacks
 - <div>
@@ -25,6 +25,16 @@
   <img src="https://img.shields.io/badge/-Next.js-72e3ff?style=for-the-badge&logo=Next.js&logoColor=white&color=black">
   <img src="https://img.shields.io/badge/-Tailwindcss-72e3ff?style=for-the-badge&logo=tailwindcss&logoColor=white&color=17b7b7">
   <img src="https://img.shields.io/badge/-chakra-72e3ff?style=for-the-badge&logo=chakraui&logoColor=white&color=2dbfb4">
+</div>
+
+# ✍🏻 Design
+
+- <div>
+ <img src="https://img.shields.io/badge/-figma-72e3ff?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E">
+ <img src="https://img.shields.io/badge/-Illustrator-72e3ff?style=for-the-badge&logo=AdobeIllustrator&logoColor=ff9a00&color=330000">
+ <img src="https://img.shields.io/badge/-photoshop-72e3ff?style=for-the-badge&logo=Adobephotoshop&logoColor=01aaff&color=001834">
+ <img src="https://img.shields.io/badge/-adobe xd-72e3ff?style=for-the-badge&logo=Adobexd&logoColor=ff61f6&color=470137">
+ <img src="https://img.shields.io/badge/-dreamweaver-72e3ff?style=for-the-badge&logo=Adobedreamweaver&logoColor=ff61f6&color=470137">
 </div>
 
 # 📱 Get in touch
